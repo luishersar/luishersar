@@ -12,3 +12,4 @@ const LuisDavid = {
   tools: ['React', 'NestJS', 'Next.js', 'AWS', 'Docker', 'PostgreSQL', 'Oracle'],
   mission: "Building robust, scalable web applications that thrive in the cloud"
 }
+```
