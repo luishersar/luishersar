@@ -10,7 +10,7 @@ I'm a Full Stack Developer with a passion for building scalable, cloud-native ap
 
 ## 💬 Get in Touch
 - 📧 [Email](mailto:luishersar@gmail.com)
-- 💼 [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/luis-hern%C3%A1ndez-211247283/))
+- 💼 [LinkedIn]([<link-to-linkedin](https://www.linkedin.com/in/luis-hern%C3%A1ndez-211247283/])
   
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, TypeScript, Node.js, SQL(PostgreSQL)
