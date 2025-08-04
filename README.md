@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-I'm a Full Stack Developer with a passion for building scalable, cloud-native applications. I specialize in JavaScript, TypeScript, NestJS, and Next.js, and I’m keen on becoming an AWS Cloud Professional. Although I’m a Civil Engineer by profession, I’ve always had a deep love for programming and technology.
+I'm a Software Engineer with a strong focus on building scalable, cloud-native solutions using modern technologies. I specialize in JavaScript, TypeScript, NestJS, and Next.js, and I’m actively deepening my expertise in AWS to advance as a certified Cloud Professional. With a background in Civil Engineering, I bring a structured, analytical approach to problem-solving—and a genuine passion for technology that's driven my transition into software development.
 
 ## 🌱 Currently Learning
 - Advanced AWS services
